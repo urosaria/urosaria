@@ -1,6 +1,6 @@
 <h1> Hi, I'm Ria 👋 </h1>
 
-Welcome to my page. I'm a full-stack developer from Korea, but currently living in Australia. 
+Welcome to my page. I'm a full-stack developer living in Australia. 
 
 <!--
 **urosaria/urosaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
